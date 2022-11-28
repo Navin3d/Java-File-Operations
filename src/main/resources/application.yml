@@ -1,0 +1,5 @@
+var:
+  tables:
+    "[hello.testing]": "helo:${name.is}"
+    "[hello.bhb]": "helo:${name.is}"
+    "[hello.jbjb]": "helo:$(name.is)"
